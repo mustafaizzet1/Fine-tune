@@ -47,9 +47,9 @@ json
 💾 Eğitilmiş modeli kaydet
 
 
-📬 İletişim & Katkı
+## 📬 İletişim & Katkı
 Her türlü katkıya açığız! PR gönderin ya da Issue açarak katkıda bulunun.
 Eğer veri formatınız veya farklı hukuk alanları için özel talepleriniz varsa bizimle iletişime geçebilirsiniz.
 
-📜 Lisans
+## 📜 Lisans
 Bu proje araştırma ve eğitim amaçlıdır. Üretilen çıktılar, Türkiye Cumhuriyeti kanunlarına ve etik değerlere uygun olarak kullanılmalıdır.
