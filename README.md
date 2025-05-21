@@ -34,3 +34,22 @@ json
     {"role": "assistant", "content": "Model cevabı"}
   ]
 }
+
+⚙️ Eğitim Pipeline'ı
+✅ Modeli 4-bit olarak yükle
+
+🔄 Veriyi system, user, assistant alanlarına ayır
+
+✍️ Alpaca-style prompt formatına dönüştür
+
+🔧 LoRA ile PEFT destekli fine-tuning
+
+💾 Eğitilmiş modeli kaydet
+
+
+📬 İletişim & Katkı
+Her türlü katkıya açığız! PR gönderin ya da Issue açarak katkıda bulunun.
+Eğer veri formatınız veya farklı hukuk alanları için özel talepleriniz varsa bizimle iletişime geçebilirsiniz.
+
+📜 Lisans
+Bu proje araştırma ve eğitim amaçlıdır. Üretilen çıktılar, Türkiye Cumhuriyeti kanunlarına ve etik değerlere uygun olarak kullanılmalıdır.
