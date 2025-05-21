@@ -21,9 +21,9 @@ Bu proje, **Trendyol-LLM-7B-chat-v4.1.0** ve benzeri LLaMA tabanlı büyük dil 
 pip install unsloth
 pip install datasets trl bitsandbytes peft accelerate
 
+---
 
-
-📁 Veri Formatı
+## 📁 Veri Formatı
 Eğitim verisi .jsonl formatında olup her satır şu yapıya sahiptir:
 
 json
